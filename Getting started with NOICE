@@ -1,0 +1,4 @@
+To use Noice, users must first join Farcaster by creating an account via the official client on iOS or Android, as recommended by docs.farcaster.xyz. Once registered, they can access Noice at farcaster.xyz/noiceapp, connect their Ethereum wallet, and start tipping or setting paywalls. The Farcaster Mini Apps documentation provides guides for developers interested in building similar apps, requiring Node.js 22.11.0 or higher and a package manager like npm.
+
+For non-technical users, resources like the Noice Dashboard on Dune dune.com/noiceapp/noice-dashb offer insights into tipping activity, while community channels on Warpcast, such as /noice, keep users updated on airdrops and events.
+
