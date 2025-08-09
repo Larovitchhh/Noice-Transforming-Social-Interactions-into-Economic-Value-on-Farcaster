@@ -1,0 +1,8 @@
+Noice operates as a mini app within Farcaster, built with HTML, CSS, and JavaScript, and utilizes Farcaster’s SDK for features like user authentication and wallet connectivity. Here’s how it functions:Integration with Farcaster: Noice is accessible through Farcaster clients like Warpcast, allowing users to engage with the app directly in their social feed. It’s tied to a stable domain, ensuring reliability and security.
+
+Tipping and Monetization: Users connect their Ethereum wallets to Noice, funding them with USDC or $NOICE tokens. They can then tip creators for posts (or “casts”) they enjoy, transforming likes and recasts into micro-payments. Creators can also set paywalls for premium content, enabling exclusive access for paying supporters.
+
+Community Building: Noice doubles as a community-building tool, allowing token distribution to holders, followers, or “frens” (friends in the Farcaster ecosystem). This feature, highlighted on warpcast.com, makes Noice a versatile platform for rewarding engagement and fostering loyalty.
+
+Real-Time Insights: Noice supports tools like Castmoney Feed, a social DeFi explorer that provides real-time insights into on-chain activities, enhancing transparency for users and creators alike.
+
